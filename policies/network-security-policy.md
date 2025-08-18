@@ -18,7 +18,6 @@ This policy applies to all end users accessing the internet from corporate devic
 ### 3.1 Internet Access Control
 - **All internet traffic MUST go through Cloudflare Access Gateway**
 - **Direct internet access is PROHIBITED** from all workstations
-- User authentication required for proxy access
 - SSL/TLS inspection enabled for all traffic
 - No bypass mechanisms allowed
 

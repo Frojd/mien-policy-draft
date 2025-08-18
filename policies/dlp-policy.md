@@ -37,7 +37,6 @@ This policy applies to:
 **Blocking Rules:**
 - Block upload of files containing credit card numbers
 - Block external sharing of files marked "Confidential" or "Restricted"
-- Block unencrypted transmission of PII
 
 ## 4. Data Classification
 

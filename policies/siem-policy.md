@@ -1,4 +1,4 @@
-# Security Information and Event Management (SIEM) Policy
+# Security Information and Event Management (SIEM) Policy (Kanske via Sentinel one istället...)
 
 **Document Version:** 2.0  
 **Effective Date:** [Date]  
